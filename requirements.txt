@@ -8,7 +8,7 @@ Babel==2.5.1
 banal==0.2.1
 beautifulsoup4==4.6.0
 botocore==1.5.49
-bottle==0.12.13
+bottle==0.12.19
 cement==2.8.2
 certifi==2017.11.5
 chardet==3.0.4
